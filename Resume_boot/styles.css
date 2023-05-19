@@ -1,0 +1,36 @@
+.hero-image {
+  background-color: #d27574;
+  margin-top: 60px;
+  /* padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px; */
+  padding: 50px 30px 50px 80px;
+}
+.Education {
+  background-color: aqua;
+}
+.Education-details {
+  text-align: center;
+}
+.Education-details p {
+  width: 50px;
+}
+.work-details {
+  text-align: center;
+  width: 100%;
+  tex
+}
+/* .work {
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+} */
+.work {
+  background: #69f79f;
+}
+.Contact {
+  background: #686e6e;
+}
